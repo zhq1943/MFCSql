@@ -1,0 +1,7 @@
+*.log
+*.sdf
+Debug/
+BugReport/Debug/
+*.opensdf
+Release/
+BugReport/Release/
